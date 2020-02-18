@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephusTask", "FlaviusJosephusTask\FlaviusJosephusTask.csproj", "{E03CAA3D-1D53-485E-B83F-1B67474BA54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephusTask.Tests", "FlaviusJosephusTask.Tests\FlaviusJosephusTask.Tests.csproj", "{48A1E223-D47A-40FA-A6E5-173D66176BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03CAA3D-1D53-485E-B83F-1B67474BA54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03CAA3D-1D53-485E-B83F-1B67474BA54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03CAA3D-1D53-485E-B83F-1B67474BA54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03CAA3D-1D53-485E-B83F-1B67474BA54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81F0FC8-3072-4275-BE5E-0859F8307E40}
+	EndGlobalSection
+EndGlobal
