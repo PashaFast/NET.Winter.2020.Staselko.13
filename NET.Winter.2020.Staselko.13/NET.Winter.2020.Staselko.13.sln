@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephusTask", "FlaviusJosephusTask\FlaviusJosephusTask.csproj", "{E03CAA3D-1D53-485E-B83F-1B67474BA54A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlaviusJosephusTask", "FlaviusJosephusTask\FlaviusJosephusTask.csproj", "{E03CAA3D-1D53-485E-B83F-1B67474BA54A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephusTask.Tests", "FlaviusJosephusTask.Tests\FlaviusJosephusTask.Tests.csproj", "{48A1E223-D47A-40FA-A6E5-173D66176BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlaviusJosephusTask.Tests", "FlaviusJosephusTask.Tests\FlaviusJosephusTask.Tests.csproj", "{48A1E223-D47A-40FA-A6E5-173D66176BF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{B9E0FD88-E2E9-488C-8BE8-4DDFF5015CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses.Tests", "ValidParentheses.Tests\ValidParentheses.Tests.csproj", "{1002CE55-E521-48FA-96E6-1C196E663ABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A1E223-D47A-40FA-A6E5-173D66176BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E0FD88-E2E9-488C-8BE8-4DDFF5015CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E0FD88-E2E9-488C-8BE8-4DDFF5015CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E0FD88-E2E9-488C-8BE8-4DDFF5015CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E0FD88-E2E9-488C-8BE8-4DDFF5015CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1002CE55-E521-48FA-96E6-1C196E663ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1002CE55-E521-48FA-96E6-1C196E663ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1002CE55-E521-48FA-96E6-1C196E663ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1002CE55-E521-48FA-96E6-1C196E663ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
